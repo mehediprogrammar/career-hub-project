@@ -5,7 +5,7 @@ import StarApplying from "./StarApplying";
 
 const NavBer = () => {
   return (
-    <div className="flex justify-between  ">
+    <div className="flex justify-between items-center py-3 px-5 shadow-lg bg-white ">
         <Logo></Logo>
       <nav >
         <ul className=" flex gap-10">
